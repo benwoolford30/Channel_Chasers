@@ -1,0 +1,16 @@
+{
+  "option_gameguid": "91eea390-6c7c-488b-84fd-6610fb945faa",
+  "option_game_speed": 60,
+  "option_mips_for_3d_textures": false,
+  "option_draw_colour": 4294967295,
+  "option_window_colour": 255,
+  "option_steam_app_id": "0",
+  "option_sci_usesci": true,
+  "option_author": "Ben Woolford",
+  "option_lastchanged": "26 January 2018 20:04:01",
+  "option_spine_licence": false,
+  "resourceVersion": "1.2",
+  "name": "Main",
+  "tags": [],
+  "resourceType": "GMMainOptions",
+}
